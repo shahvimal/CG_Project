@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553479583 source:c:\users\dell\desktop\prat\c_programs\frog\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1554051749 source:e:\prat\c_programs\frog\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
